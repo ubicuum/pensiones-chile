@@ -1,0 +1,524 @@
+{
+  "generadoEn": "2026-09-01T00:29:24.433Z",
+  "comisiones": [
+    {
+      "name": "Cuprum",
+      "fee": 11.44,
+      "previredCode": "03",
+      "rut": "98.001.000-7"
+    },
+    {
+      "name": "Habitat",
+      "fee": 11.27,
+      "previredCode": "05",
+      "rut": "98.000.100-8"
+    },
+    {
+      "name": "Provida",
+      "fee": 11.45,
+      "previredCode": "08",
+      "rut": "98.000.400-7"
+    },
+    {
+      "name": "Plan Vital",
+      "fee": 11.16,
+      "previredCode": "29",
+      "rut": "98.001.200-K"
+    },
+    {
+      "name": "Capital",
+      "fee": 11.44,
+      "previredCode": "33",
+      "rut": "98.000.000-1"
+    },
+    {
+      "name": "Modelo",
+      "fee": 10.58,
+      "previredCode": "34",
+      "rut": "76.762.250-3"
+    },
+    {
+      "name": "Uno",
+      "fee": 10.46,
+      "previredCode": "35",
+      "rut": "76.960.424-3"
+    }
+  ],
+  "valorCuota": {
+    "Fondo A": {
+      "Capital": {
+        "fecha": "2026-08-30",
+        "cuota": 95292.61,
+        "patrimonio": 8818924136348,
+        "cuotaInicio": 48914.38
+      },
+      "Cuprum": {
+        "fecha": "2026-08-30",
+        "cuota": 99646.73,
+        "patrimonio": 9791608817758,
+        "cuotaInicio": 51398.91
+      },
+      "Habitat": {
+        "fecha": "2026-08-30",
+        "cuota": 100359.52,
+        "patrimonio": 12204436836156,
+        "cuotaInicio": 52141.66
+      },
+      "Modelo": {
+        "fecha": "2026-08-30",
+        "cuota": 96274.46,
+        "patrimonio": 3589428689254,
+        "cuotaInicio": 50732.63
+      },
+      "Planvital": {
+        "fecha": "2026-08-30",
+        "cuota": 92693.18,
+        "patrimonio": 2508141269764,
+        "cuotaInicio": 47650.9
+      },
+      "Provida": {
+        "fecha": "2026-08-30",
+        "cuota": 98652.61,
+        "patrimonio": 6288187030054,
+        "cuotaInicio": 51292.03
+      },
+      "Uno": {
+        "fecha": "2026-08-30",
+        "cuota": 100212.49,
+        "patrimonio": 1069067894986,
+        "cuotaInicio": 52831.96
+      }
+    },
+    "Fondo B": {
+      "Capital": {
+        "fecha": "2026-08-30",
+        "cuota": 80680.07,
+        "patrimonio": 9195128966994,
+        "cuotaInicio": 43102.91
+      },
+      "Cuprum": {
+        "fecha": "2026-08-30",
+        "cuota": 83242.92,
+        "patrimonio": 8861362707776,
+        "cuotaInicio": 44769.87
+      },
+      "Habitat": {
+        "fecha": "2026-08-30",
+        "cuota": 84071.91,
+        "patrimonio": 11271602709322,
+        "cuotaInicio": 45269.06
+      },
+      "Modelo": {
+        "fecha": "2026-08-30",
+        "cuota": 77661.54,
+        "patrimonio": 8829389843821,
+        "cuotaInicio": 42981.72
+      },
+      "Planvital": {
+        "fecha": "2026-08-30",
+        "cuota": 80002.38,
+        "patrimonio": 5985838122264,
+        "cuotaInicio": 42615.57
+      },
+      "Provida": {
+        "fecha": "2026-08-30",
+        "cuota": 78802.95,
+        "patrimonio": 9079319314667,
+        "cuotaInicio": 42656.64
+      },
+      "Uno": {
+        "fecha": "2026-08-30",
+        "cuota": null,
+        "patrimonio": null,
+        "cuotaInicio": 44046.21
+      }
+    },
+    "Fondo C": {
+      "Capital": {
+        "fecha": "2026-08-30",
+        "cuota": 74136.9,
+        "patrimonio": 12912534628697,
+        "cuotaInicio": 44732.6
+      },
+      "Cuprum": {
+        "fecha": "2026-08-30",
+        "cuota": 84104.67,
+        "patrimonio": 12786814874534,
+        "cuotaInicio": 51792.66
+      },
+      "Habitat": {
+        "fecha": "2026-08-30",
+        "cuota": 84234.43,
+        "patrimonio": 22370680227354,
+        "cuotaInicio": 51077.98
+      },
+      "Modelo": {
+        "fecha": "2026-08-30",
+        "cuota": 78322.9,
+        "patrimonio": 5161615895629,
+        "cuotaInicio": 49346.71
+      },
+      "Planvital": {
+        "fecha": "2026-08-30",
+        "cuota": 146048.42,
+        "patrimonio": 4478536451982,
+        "cuotaInicio": 89423.48
+      },
+      "Provida": {
+        "fecha": "2026-08-30",
+        "cuota": 69824.39,
+        "patrimonio": 14853688926146,
+        "cuotaInicio": 44133.57
+      },
+      "Uno": {
+        "fecha": "2026-08-30",
+        "cuota": null,
+        "patrimonio": null,
+        "cuotaInicio": 50195.21
+      }
+    },
+    "Fondo D": {
+      "Capital": {
+        "fecha": "2026-08-30",
+        "cuota": 55769.58,
+        "patrimonio": 7431055621716,
+        "cuotaInicio": 37484.42
+      },
+      "Cuprum": {
+        "fecha": "2026-08-30",
+        "cuota": 58598.57,
+        "patrimonio": 4629061401037,
+        "cuotaInicio": 39362.85
+      },
+      "Habitat": {
+        "fecha": "2026-08-30",
+        "cuota": 59833.31,
+        "patrimonio": 9383371038433,
+        "cuotaInicio": 40049.43
+      },
+      "Modelo": {
+        "fecha": "2026-08-30",
+        "cuota": 54909.73,
+        "patrimonio": 1074687380328,
+        "cuotaInicio": 37842.78
+      },
+      "Planvital": {
+        "fecha": "2026-08-30",
+        "cuota": 53662.24,
+        "patrimonio": 1706989777179,
+        "cuotaInicio": 36085.67
+      },
+      "Provida": {
+        "fecha": "2026-08-30",
+        "cuota": 53263.03,
+        "patrimonio": 11302067588423,
+        "cuotaInicio": 36878.99
+      },
+      "Uno": {
+        "fecha": "2026-08-30",
+        "cuota": null,
+        "patrimonio": null,
+        "cuotaInicio": 40468.93
+      }
+    },
+    "Fondo E": {
+      "Capital": {
+        "fecha": "2026-08-30",
+        "cuota": 65138.47,
+        "patrimonio": 4439466812957,
+        "cuotaInicio": 45106.29
+      },
+      "Cuprum": {
+        "fecha": "2026-08-30",
+        "cuota": 67634.56,
+        "patrimonio": 3807283930164,
+        "cuotaInicio": 47050.64
+      },
+      "Habitat": {
+        "fecha": "2026-08-30",
+        "cuota": 62004.7,
+        "patrimonio": 5278699838085,
+        "cuotaInicio": 42999.5
+      },
+      "Modelo": {
+        "fecha": "2026-08-30",
+        "cuota": 64786.91,
+        "patrimonio": 1903098573915,
+        "cuotaInicio": 46485.24
+      },
+      "Planvital": {
+        "fecha": "2026-08-30",
+        "cuota": 104162.6,
+        "patrimonio": 1425440675838,
+        "cuotaInicio": 72866.39
+      },
+      "Provida": {
+        "fecha": "2026-08-30",
+        "cuota": 60688.21,
+        "patrimonio": 3785175154709,
+        "cuotaInicio": 43046.89
+      },
+      "Uno": {
+        "fecha": "2026-08-30",
+        "cuota": null,
+        "patrimonio": null,
+        "cuotaInicio": 47769.8
+      }
+    }
+  },
+  "rentabilidadFondos": {
+    "periodo": "Julio de 2026",
+    "porFondo": {
+      "Fondo A": {
+        "CAPITAL": {
+          "mes": -2.89,
+          "acumuladoAnio": 5.71,
+          "ultimos12m": 11.56,
+          "prom60m": 5.83
+        },
+        "CUPRUM": {
+          "mes": -2.78,
+          "acumuladoAnio": 6.25,
+          "ultimos12m": 12.05,
+          "prom60m": 5.83
+        },
+        "HABITAT": {
+          "mes": -3.17,
+          "acumuladoAnio": 4.59,
+          "ultimos12m": 10.32,
+          "prom60m": 5.87
+        },
+        "MODELO": {
+          "mes": -2.89,
+          "acumuladoAnio": 5.57,
+          "ultimos12m": 11.07,
+          "prom60m": null
+        },
+        "PLANVITAL": {
+          "mes": -2.8,
+          "acumuladoAnio": 5.72,
+          "ultimos12m": 11.57,
+          "prom60m": 5.57
+        },
+        "PROVIDA": {
+          "mes": -2.88,
+          "acumuladoAnio": 5.85,
+          "ultimos12m": 11.54,
+          "prom60m": 5.79
+        },
+        "UNO": {
+          "mes": -2.64,
+          "acumuladoAnio": 5.91,
+          "ultimos12m": 11.49,
+          "prom60m": null
+        },
+        "SISTEMA": {
+          "mes": -2.93,
+          "acumuladoAnio": 5.53,
+          "ultimos12m": 11.28,
+          "prom60m": 5.82
+        }
+      },
+      "Fondo B": {
+        "CAPITAL": {
+          "mes": -2.71,
+          "acumuladoAnio": 3.72,
+          "ultimos12m": 8.84,
+          "prom60m": 5.04
+        },
+        "CUPRUM": {
+          "mes": -2.7,
+          "acumuladoAnio": 4.33,
+          "ultimos12m": 9.38,
+          "prom60m": 5.06
+        },
+        "HABITAT": {
+          "mes": -3.13,
+          "acumuladoAnio": 2.66,
+          "ultimos12m": 7.63,
+          "prom60m": 5.11
+        },
+        "MODELO": {
+          "mes": -2.91,
+          "acumuladoAnio": 3.05,
+          "ultimos12m": 7.73,
+          "prom60m": null
+        },
+        "PLANVITAL": {
+          "mes": -2.72,
+          "acumuladoAnio": 3.76,
+          "ultimos12m": 8.71,
+          "prom60m": 4.9
+        },
+        "PROVIDA": {
+          "mes": -2.72,
+          "acumuladoAnio": 3.96,
+          "ultimos12m": 8.87,
+          "prom60m": 4.82
+        },
+        "UNO": {
+          "mes": -2.53,
+          "acumuladoAnio": 3.9,
+          "ultimos12m": 8.77,
+          "prom60m": null
+        },
+        "SISTEMA": {
+          "mes": -2.82,
+          "acumuladoAnio": 3.54,
+          "ultimos12m": 8.49,
+          "prom60m": 5
+        }
+      },
+      "Fondo C": {
+        "CAPITAL": {
+          "mes": -3.11,
+          "acumuladoAnio": -0.19,
+          "ultimos12m": 4.72,
+          "prom60m": 4.17
+        },
+        "CUPRUM": {
+          "mes": 7,
+          "acumuladoAnio": -3.22,
+          "ultimos12m": 0.09,
+          "prom60m": 4.76
+        },
+        "HABITAT": {
+          "mes": 4.33,
+          "acumuladoAnio": 7.27,
+          "ultimos12m": -3.24,
+          "prom60m": -0.52
+        },
+        "MODELO": {
+          "mes": 4.22,
+          "acumuladoAnio": 4.46,
+          "ultimos12m": 7.27,
+          "prom60m": -3.46
+        },
+        "PLANVITAL": {
+          "mes": -0.75,
+          "acumuladoAnio": 3.77,
+          "ultimos12m": null,
+          "prom60m": null
+        },
+        "PROVIDA": {
+          "mes": -3.27,
+          "acumuladoAnio": -0.14,
+          "ultimos12m": 4.59,
+          "prom60m": 4.11
+        },
+        "UNO": {
+          "mes": 7.19,
+          "acumuladoAnio": -3.2,
+          "ultimos12m": -0.31,
+          "prom60m": 4.27
+        },
+        "SISTEMA": {
+          "mes": 3.9,
+          "acumuladoAnio": 6.87,
+          "ultimos12m": -3.06,
+          "prom60m": 0.03
+        }
+      },
+      "Fondo D": {
+        "CAPITAL": {
+          "mes": 4.68,
+          "acumuladoAnio": null,
+          "ultimos12m": null,
+          "prom60m": -3.22
+        },
+        "CUPRUM": {
+          "mes": -0.3,
+          "acumuladoAnio": 4.41,
+          "ultimos12m": 4.23,
+          "prom60m": 7.12
+        },
+        "HABITAT": {
+          "mes": -3.09,
+          "acumuladoAnio": -3.18,
+          "ultimos12m": 1.34,
+          "prom60m": 3.47
+        },
+        "MODELO": {
+          "mes": -3.07,
+          "acumuladoAnio": -2.85,
+          "ultimos12m": 1.68,
+          "prom60m": 3.6
+        },
+        "PLANVITAL": {
+          "mes": -3.03,
+          "acumuladoAnio": -3.02,
+          "ultimos12m": 1.47,
+          "prom60m": 3.69
+        },
+        "PROVIDA": {
+          "mes": -3.51,
+          "acumuladoAnio": -3.79,
+          "ultimos12m": 0.42,
+          "prom60m": null
+        },
+        "UNO": {
+          "mes": -3.21,
+          "acumuladoAnio": -3.13,
+          "ultimos12m": 1.36,
+          "prom60m": 3.23
+        },
+        "SISTEMA": {
+          "mes": -3.17,
+          "acumuladoAnio": -3.23,
+          "ultimos12m": 1.26,
+          "prom60m": 3.19
+        }
+      },
+      "Fondo E": {
+        "CAPITAL": {
+          "mes": -3.02,
+          "acumuladoAnio": -2.84,
+          "ultimos12m": 1.77,
+          "prom60m": null
+        },
+        "CUPRUM": {
+          "mes": -3.11,
+          "acumuladoAnio": -3.13,
+          "ultimos12m": 1.37,
+          "prom60m": 3.45
+        },
+        "HABITAT": {
+          "mes": -3.14,
+          "acumuladoAnio": -5.89,
+          "ultimos12m": -2.55,
+          "prom60m": 2.95
+        },
+        "MODELO": {
+          "mes": 3.47,
+          "acumuladoAnio": -3.16,
+          "ultimos12m": -5.77,
+          "prom60m": -2.42
+        },
+        "PLANVITAL": {
+          "mes": 2.83,
+          "acumuladoAnio": 3.6,
+          "ultimos12m": -3.37,
+          "prom60m": -5.66
+        },
+        "PROVIDA": {
+          "mes": -2.5,
+          "acumuladoAnio": 3,
+          "ultimos12m": 3.67,
+          "prom60m": -3.65
+        },
+        "UNO": {
+          "mes": -6.77,
+          "acumuladoAnio": -3.62,
+          "ultimos12m": null,
+          "prom60m": null
+        },
+        "SISTEMA": {
+          "mes": -3.32,
+          "acumuladoAnio": -5.49,
+          "ultimos12m": -2.29,
+          "prom60m": 2.39
+        }
+      }
+    }
+  }
+}

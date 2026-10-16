@@ -1,0 +1,1122 @@
+{
+  "generadoEn": "2026-09-01T14:24:14.910Z",
+  "fuente": "https://www.spensiones.cl (valor cuota diario 2020-2026) + resumen_real.json",
+  "IPC_ANUAL": {
+    "2020": 3,
+    "2021": 7.2,
+    "2022": 12.8,
+    "2023": 3.9,
+    "2024": 4.5,
+    "2025": 3.5,
+    "2026": 2.8
+  },
+  "rentabilidadNominalAnual": {
+    "A": {
+      "2020": {
+        "CAPITAL": 4.623323448033068,
+        "CUPRUM": 3.70550659537332,
+        "HABITAT": 4.618456719636477,
+        "MODELO": 3.9095745676894778,
+        "PLANVITAL": 4.084665767068407,
+        "PROVIDA": 5.275536959640714,
+        "UNO": 4.165376412308008
+      },
+      "2021": {
+        "CAPITAL": 20.574372482332983,
+        "CUPRUM": 20.89374994137345,
+        "HABITAT": 20.392558726154796,
+        "MODELO": 20.04749596233102,
+        "PLANVITAL": 20.70720410474123,
+        "PROVIDA": 19.877065726186682,
+        "UNO": 19.192039047393905
+      },
+      "2022": {
+        "CAPITAL": -9.96756176488891,
+        "CUPRUM": -10.137754769508668,
+        "HABITAT": -10.331821317144252,
+        "MODELO": -11.302943810243004,
+        "PLANVITAL": -9.890426339905012,
+        "PROVIDA": -10.43475654773427,
+        "UNO": -11.34920021483512
+      },
+      "2023": {
+        "CAPITAL": 12.228536744471374,
+        "CUPRUM": 12.357184536721078,
+        "HABITAT": 12.507686123916372,
+        "MODELO": 12.740961730456357,
+        "PLANVITAL": 12.226594056241824,
+        "PROVIDA": 11.796339318101111,
+        "UNO": 12.651822767447808
+      },
+      "2024": {
+        "CAPITAL": 13.451999567588224,
+        "CUPRUM": 13.722585644740516,
+        "HABITAT": 14.436520920412743,
+        "MODELO": 14.440325907483187,
+        "PLANVITAL": 13.805755792576878,
+        "PROVIDA": 13.678419211379955,
+        "UNO": 14.010103946016228
+      },
+      "2025": {
+        "CAPITAL": 19.372706846946986,
+        "CUPRUM": 18.7816132405773,
+        "HABITAT": 18.710352116270613,
+        "MODELO": 18.03201159438541,
+        "PLANVITAL": 19.285421109066924,
+        "PROVIDA": 18.52643647959489,
+        "UNO": 18.96515872262441
+      }
+    },
+    "B": {
+      "2020": {
+        "CAPITAL": 6.3108268096051745,
+        "CUPRUM": 5.096954715302937,
+        "HABITAT": 6.400464246441162,
+        "MODELO": 6.322013172111296,
+        "PLANVITAL": 5.765310659930156,
+        "PROVIDA": 6.581999894975321,
+        "UNO": 5.68064766525882
+      },
+      "2021": {
+        "CAPITAL": 14.303518795994874,
+        "CUPRUM": 14.651457320309103,
+        "HABITAT": 14.916677549059521,
+        "MODELO": 13.201571236851194,
+        "PLANVITAL": 14.572680586317732,
+        "PROVIDA": 13.910034906509061,
+        "UNO": 12.91049816620664
+      },
+      "2022": {
+        "CAPITAL": -4.3146687204798635,
+        "CUPRUM": -4.381196295374923,
+        "HABITAT": -4.762180059630006,
+        "MODELO": -6.169467188793321,
+        "PLANVITAL": -3.871631633616557,
+        "PROVIDA": -4.345741517405455,
+        "UNO": -5.4659486273624935
+      },
+      "2023": {
+        "CAPITAL": 11.271121880478386,
+        "CUPRUM": 11.133866645160495,
+        "HABITAT": 11.281143650622028,
+        "MODELO": 11.489370819335543,
+        "PLANVITAL": 11.116603836070759,
+        "PROVIDA": 10.560902873986567,
+        "UNO": 11.236435836462189
+      },
+      "2024": {
+        "CAPITAL": 11.629863648736706,
+        "CUPRUM": 12.165862249664894,
+        "HABITAT": 12.472507896894601,
+        "MODELO": 12.777419913957466,
+        "PLANVITAL": 12.325140056555606,
+        "PROVIDA": 11.867144913815997,
+        "UNO": 12.220527650815605
+      },
+      "2025": {
+        "CAPITAL": 17.730844730594143,
+        "CUPRUM": 16.925187008373022,
+        "HABITAT": 17.04222073218493,
+        "MODELO": 16.424731654078496,
+        "PLANVITAL": 17.389638433148424,
+        "PROVIDA": 16.57638721820589,
+        "UNO": 17.223912213128134
+      }
+    },
+    "C": {
+      "2020": {
+        "CAPITAL": 7.443251677747331,
+        "CUPRUM": 6.078641259205453,
+        "HABITAT": 7.6914553003074815,
+        "MODELO": 6.720326441215629,
+        "PLANVITAL": 6.34746042090959,
+        "PROVIDA": 7.086079825402747,
+        "UNO": 5.956444848024334
+      },
+      "2021": {
+        "CAPITAL": 4.74575008697069,
+        "CUPRUM": 4.366888450236139,
+        "HABITAT": 4.648567754208477,
+        "MODELO": 3.1205038378959715,
+        "PLANVITAL": 3.593148656776668,
+        "PROVIDA": 2.8398310569982543,
+        "UNO": 2.610488734994365
+      },
+      "2022": {
+        "CAPITAL": 2.9285858013823995,
+        "CUPRUM": 2.821687278165941,
+        "HABITAT": 2.7969739231223034,
+        "MODELO": 1.5892625388720827,
+        "PLANVITAL": 3.8637115931750454,
+        "PROVIDA": 2.9807394763784245,
+        "UNO": 1.8274087491261914
+      },
+      "2023": {
+        "CAPITAL": 8.319250228832352,
+        "CUPRUM": 8.168764539981922,
+        "HABITAT": 8.050927371763938,
+        "MODELO": 8.481333580088513,
+        "PLANVITAL": 7.933010610412672,
+        "PROVIDA": 7.292109749565312,
+        "UNO": 8.227100849673906
+      },
+      "2024": {
+        "CAPITAL": 7.811345556416072,
+        "CUPRUM": 7.975442133637922,
+        "HABITAT": 8.136012378297576,
+        "MODELO": 8.62122001741399,
+        "PLANVITAL": 8.104934816860897,
+        "PROVIDA": 7.410673052571992,
+        "UNO": 8.01678145221214
+      },
+      "2025": {
+        "CAPITAL": 16.526260646543058,
+        "CUPRUM": 15.973253190687565,
+        "HABITAT": 16.198467190119015,
+        "MODELO": 15.37036273600112,
+        "PLANVITAL": 16.485546834200647,
+        "PROVIDA": 15.373210532018655,
+        "UNO": 16.18937477612632
+      }
+    },
+    "D": {
+      "2020": {
+        "CAPITAL": 6.962412650375804,
+        "CUPRUM": 6.4806283081636495,
+        "HABITAT": 6.980923324002353,
+        "MODELO": 6.771780508725844,
+        "PLANVITAL": 6.01440959804822,
+        "PROVIDA": 7.134685629948123,
+        "UNO": 6.5760325266815745
+      },
+      "2021": {
+        "CAPITAL": -3.9295419990502345,
+        "CUPRUM": -3.5459434491877495,
+        "HABITAT": -3.5700806973935295,
+        "MODELO": -3.634934034823567,
+        "PLANVITAL": -3.8868141241075627,
+        "PROVIDA": -5.254922843954946,
+        "UNO": -4.116862020979283
+      },
+      "2022": {
+        "CAPITAL": 14.074351380315854,
+        "CUPRUM": 13.797762269659053,
+        "HABITAT": 14.000969124525241,
+        "MODELO": 12.335020687423448,
+        "PLANVITAL": 15.077074290973357,
+        "PROVIDA": 14.03396808673194,
+        "UNO": 12.688488841741052
+      },
+      "2023": {
+        "CAPITAL": 5.094722391771667,
+        "CUPRUM": 5.136040840183398,
+        "HABITAT": 4.6416121534863075,
+        "MODELO": 5.051080772435923,
+        "PLANVITAL": 4.515138101334437,
+        "PROVIDA": 4.404551878620944,
+        "UNO": 4.944482878787615
+      },
+      "2024": {
+        "CAPITAL": 4.4587319667551695,
+        "CUPRUM": 4.711533571201443,
+        "HABITAT": 4.770379033259431,
+        "MODELO": 5.337867938863328,
+        "PLANVITAL": 5.000650110518778,
+        "PROVIDA": 4.161967814301049,
+        "UNO": 4.773477969805806
+      },
+      "2025": {
+        "CAPITAL": 14.520504552674485,
+        "CUPRUM": 14.24861750169406,
+        "HABITAT": 14.567585357875924,
+        "MODELO": 13.191516967634943,
+        "PLANVITAL": 14.575694469868438,
+        "PROVIDA": 13.841065465869896,
+        "UNO": 14.490214591638107
+      }
+    },
+    "E": {
+      "2020": {
+        "CAPITAL": 7.084311301151125,
+        "CUPRUM": 7.107533500075669,
+        "HABITAT": 7.336573681089331,
+        "MODELO": 7.550181519983545,
+        "PLANVITAL": 5.996674186823303,
+        "PROVIDA": 7.738607829741029,
+        "UNO": 5.9929285866802795
+      },
+      "2021": {
+        "CAPITAL": -6.838218731574175,
+        "CUPRUM": -6.723236017698653,
+        "HABITAT": -6.872485466649946,
+        "MODELO": -7.468052779720202,
+        "PLANVITAL": -7.15578691011115,
+        "PROVIDA": -9.256714157451839,
+        "UNO": -7.8520344892353044
+      },
+      "2022": {
+        "CAPITAL": 22.479565001540045,
+        "CUPRUM": 21.288724864710538,
+        "HABITAT": 22.24527566611798,
+        "MODELO": 20.744981065170887,
+        "PLANVITAL": 22.79365899256036,
+        "PROVIDA": 23.07228960036385,
+        "UNO": 20.846532518648896
+      },
+      "2023": {
+        "CAPITAL": 3.7807966751284727,
+        "CUPRUM": 3.6826567916184327,
+        "HABITAT": 3.2121410397464967,
+        "MODELO": 3.3697284606864386,
+        "PLANVITAL": 3.101315734483645,
+        "PROVIDA": 3.013128098633433,
+        "UNO": 3.2805830523841673
+      },
+      "2024": {
+        "CAPITAL": 4.516428613762669,
+        "CUPRUM": 4.838247197967971,
+        "HABITAT": 4.831504908120832,
+        "MODELO": 5.066358991127196,
+        "PLANVITAL": 5.0468645288410885,
+        "PROVIDA": 4.592821080275278,
+        "UNO": 4.8049240833843765
+      },
+      "2025": {
+        "CAPITAL": 11.970232202736053,
+        "CUPRUM": 12.063853201534847,
+        "HABITAT": 11.73328877299291,
+        "MODELO": 10.845942575242539,
+        "PLANVITAL": 11.91677865523124,
+        "PROVIDA": 11.541372023426067,
+        "UNO": 11.813664592202478
+      }
+    }
+  },
+  "rentabilidadRealCalculada": {
+    "A": {
+      "2020": {
+        "CAPITAL": 1.5760421825563808,
+        "CUPRUM": 0.6849578595857553,
+        "HABITAT": 1.5713172035305645,
+        "MODELO": 0.8830821045528792,
+        "PLANVITAL": 1.0530735602605867,
+        "PROVIDA": 2.209259184117185,
+        "UNO": 1.131433410007765
+      },
+      "2021": {
+        "CAPITAL": 12.476093733519566,
+        "CUPRUM": 12.77402046769911,
+        "HABITAT": 12.306491349024995,
+        "MODELO": 11.984604442472957,
+        "PLANVITAL": 12.600003829049644,
+        "PROVIDA": 11.825621013233834,
+        "UNO": 11.186603588986843
+      },
+      "2022": {
+        "CAPITAL": -20.18400865681642,
+        "CUPRUM": -20.33488898006088,
+        "HABITAT": -20.50693379179456,
+        "MODELO": -21.367857987804094,
+        "PLANVITAL": -20.11562618785906,
+        "PROVIDA": -20.598188428842445,
+        "UNO": -21.408865438683623
+      },
+      "2023": {
+        "CAPITAL": 8.015916019702974,
+        "CUPRUM": 8.139734876536163,
+        "HABITAT": 8.284587222248675,
+        "MODELO": 8.509106574067715,
+        "PLANVITAL": 8.014046252398298,
+        "PROVIDA": 7.5999415958624805,
+        "UNO": 8.423313539410792
+      },
+      "2024": {
+        "CAPITAL": 8.566506763242332,
+        "CUPRUM": 8.825440808364139,
+        "HABITAT": 9.508632459725131,
+        "MODELO": 9.512273595677701,
+        "PLANVITAL": 8.90502946658076,
+        "PROVIDA": 8.783176278832494,
+        "UNO": 9.100577938771526
+      },
+      "2025": {
+        "CAPITAL": 15.335948644393227,
+        "CUPRUM": 14.764843710702724,
+        "HABITAT": 14.695992382870159,
+        "MODELO": 14.04059091244969,
+        "PLANVITAL": 15.251614598132313,
+        "PROVIDA": 14.518296115550623,
+        "UNO": 14.942182340699928
+      }
+    },
+    "B": {
+      "2020": {
+        "CAPITAL": 3.21439496078173,
+        "CUPRUM": 2.0358783643717793,
+        "HABITAT": 3.3014215984865647,
+        "MODELO": 3.225255506904179,
+        "PLANVITAL": 2.68476763100014,
+        "PROVIDA": 3.477669800946903,
+        "UNO": 2.602570548794958
+      },
+      "2021": {
+        "CAPITAL": 6.626416787308642,
+        "CUPRUM": 6.950986306258478,
+        "HABITAT": 7.198393236062972,
+        "MODELO": 5.598480631391034,
+        "PLANVITAL": 6.877500546938187,
+        "PROVIDA": 6.259360920250989,
+        "UNO": 5.326957244595731
+      },
+      "2022": {
+        "CAPITAL": -15.172578652907687,
+        "CUPRUM": -15.23155699944586,
+        "HABITAT": -15.569308563501782,
+        "MODELO": -16.816903536164297,
+        "PLANVITAL": -14.779815278028874,
+        "PROVIDA": -15.200125458692792,
+        "UNO": -16.193216868229165
+      },
+      "2023": {
+        "CAPITAL": 7.094438768506639,
+        "CUPRUM": 6.962335558383548,
+        "HABITAT": 7.104084360560181,
+        "MODELO": 7.304495495029406,
+        "PLANVITAL": 6.945720727690818,
+        "PROVIDA": 6.410878608264259,
+        "UNO": 7.061054703043501
+      },
+      "2024": {
+        "CAPITAL": 6.822836027499246,
+        "CUPRUM": 7.335753348961638,
+        "HABITAT": 7.629194159707753,
+        "MODELO": 7.920975994217683,
+        "PLANVITAL": 7.488172302924023,
+        "PROVIDA": 7.0498994390583825,
+        "UNO": 7.3880647376225905
+      },
+      "2025": {
+        "CAPITAL": 13.749608435356663,
+        "CUPRUM": 12.971195177172001,
+        "HABITAT": 13.084271238826028,
+        "MODELO": 12.487663433892271,
+        "PLANVITAL": 13.419940515119254,
+        "PROVIDA": 12.634190548991198,
+        "UNO": 13.259818563408832
+      }
+    },
+    "C": {
+      "2020": {
+        "CAPITAL": 4.313836580337216,
+        "CUPRUM": 2.988972096315967,
+        "HABITAT": 4.554810971172318,
+        "MODELO": 3.611967418655948,
+        "PLANVITAL": 3.2499615736986343,
+        "PROVIDA": 3.967067791653145,
+        "UNO": 2.8703348039071264
+      },
+      "2021": {
+        "CAPITAL": -2.289412232303467,
+        "CUPRUM": -2.6428279382125663,
+        "HABITAT": -2.3800673934622485,
+        "MODELO": -3.8055001512164455,
+        "PLANVITAL": -3.3646001336038567,
+        "PROVIDA": -4.067321775188204,
+        "UNO": -4.281260508400786
+      },
+      "2022": {
+        "CAPITAL": -8.751253722178731,
+        "CUPRUM": -8.846021916519565,
+        "HABITAT": -8.867930919217827,
+        "MODELO": -9.938597040007025,
+        "PLANVITAL": -7.922241495412208,
+        "PROVIDA": -8.705018194699987,
+        "UNO": -9.727474513186007
+      },
+      "2023": {
+        "CAPITAL": 4.253368843919492,
+        "CUPRUM": 4.108531799790116,
+        "HABITAT": 3.99511777840611,
+        "MODELO": 4.409368219526977,
+        "PLANVITAL": 3.881627151504019,
+        "PROVIDA": 3.264783204586452,
+        "UNO": 4.164678392371424
+      },
+      "2024": {
+        "CAPITAL": 3.1687517286278277,
+        "CUPRUM": 3.3257819460650095,
+        "HABITAT": 3.47943768258141,
+        "MODELO": 3.943751212836366,
+        "PLANVITAL": 3.449698389340572,
+        "PROVIDA": 2.7853330646621988,
+        "UNO": 3.365341102595365
+      },
+      "2025": {
+        "CAPITAL": 12.585759078785564,
+        "CUPRUM": 12.051452358152236,
+        "HABITAT": 12.269050425235761,
+        "MODELO": 11.468949503382731,
+        "PLANVITAL": 12.546422062029627,
+        "PROVIDA": 11.471700997119472,
+        "UNO": 12.260265484180021
+      }
+    },
+    "D": {
+      "2020": {
+        "CAPITAL": 3.8470025731803803,
+        "CUPRUM": 3.37925078462491,
+        "HABITAT": 3.864974100973151,
+        "MODELO": 3.661922824005681,
+        "PLANVITAL": 2.9266112602409855,
+        "PROVIDA": 4.014257893153506,
+        "UNO": 3.471876239496674
+      },
+      "2021": {
+        "CAPITAL": -10.382035446875227,
+        "CUPRUM": -10.024200978719922,
+        "HABITAT": -10.046717068464117,
+        "MODELO": -10.10721458472348,
+        "PLANVITAL": -10.342177354577952,
+        "PROVIDA": -11.618398175331112,
+        "UNO": -10.556774273301572
+      },
+      "2022": {
+        "CAPITAL": 1.129744131485677,
+        "CUPRUM": 0.8845410192012793,
+        "HABITAT": 1.064688940181946,
+        "MODELO": -0.41221570263879626,
+        "PLANVITAL": 2.0186828820685676,
+        "PROVIDA": 1.093943339301351,
+        "UNO": -0.0988574098040429
+      },
+      "2023": {
+        "CAPITAL": 1.1498771816859321,
+        "CUPRUM": 1.1896446970003804,
+        "HABITAT": 0.7137749311706632,
+        "MODELO": 1.1078736982059079,
+        "PLANVITAL": 0.5920482207261157,
+        "PROVIDA": 0.4856129726861891,
+        "UNO": 1.005277072942845
+      },
+      "2024": {
+        "CAPITAL": -0.03949094090414107,
+        "CUPRUM": 0.20242447004923392,
+        "HABITAT": 0.258735916994679,
+        "MODELO": 0.8017875013046183,
+        "PLANVITAL": 0.47909101485050787,
+        "PROVIDA": -0.3234757757884621,
+        "UNO": 0.26170140651273766
+      },
+      "2025": {
+        "CAPITAL": 10.647830485675836,
+        "CUPRUM": 10.38513768279621,
+        "HABITAT": 10.693319186353566,
+        "MODELO": 9.363784509792229,
+        "PLANVITAL": 10.701154077167585,
+        "PROVIDA": 9.991367599874312,
+        "UNO": 10.61856482283876
+      }
+    },
+    "E": {
+      "2020": {
+        "CAPITAL": 3.965350777816634,
+        "CUPRUM": 3.9878966020152173,
+        "HABITAT": 4.210265709795458,
+        "MODELO": 4.417651961149072,
+        "PLANVITAL": 2.909392414391543,
+        "PROVIDA": 4.600590125962167,
+        "UNO": 2.905755909398322
+      },
+      "2021": {
+        "CAPITAL": -13.095353294378898,
+        "CUPRUM": -12.988093300092029,
+        "HABITAT": -13.127318532322718,
+        "MODELO": -13.682885055709148,
+        "PLANVITAL": -13.391592266894737,
+        "PROVIDA": -15.351412460309554,
+        "UNO": -14.041076948913533
+      },
+      "2022": {
+        "CAPITAL": 8.58117464675534,
+        "CUPRUM": 7.5254653055944365,
+        "HABITAT": 8.373471335210958,
+        "MODELO": 7.043422930116017,
+        "PLANVITAL": 8.85962676645422,
+        "PROVIDA": 9.106639716634612,
+        "UNO": 7.13345081440504
+      },
+      "2023": {
+        "CAPITAL": -0.11472889785516527,
+        "CUPRUM": -0.209184993629985,
+        "HABITAT": -0.6620394227656368,
+        "MODELO": -0.5103672178186303,
+        "PLANVITAL": -0.7687047791302692,
+        "PROVIDA": -0.8535821957329714,
+        "UNO": -0.596166455838143
+      },
+      "2024": {
+        "CAPITAL": 0.015721161495374503,
+        "CUPRUM": 0.3236815291559614,
+        "HABITAT": 0.31722957714912514,
+        "MODELO": 0.5419703264375242,
+        "PLANVITAL": 0.5233153386039247,
+        "PROVIDA": 0.08882400026342108,
+        "UNO": 0.2917933812290663
+      },
+      "2025": {
+        "CAPITAL": 8.183799229696675,
+        "CUPRUM": 8.27425430099986,
+        "HABITAT": 7.954868379703295,
+        "MODELO": 7.097529058205354,
+        "PLANVITAL": 8.132153290078502,
+        "PROVIDA": 7.769441568527613,
+        "UNO": 8.032526176041044
+      }
+    }
+  },
+  "rentabilidadOficialPublicada": {
+    "A": {
+      "Capital": {
+        "mes": -2.89,
+        "acumuladoAnio": 5.71,
+        "ultimos12m": 11.56,
+        "prom60m": 5.83
+      },
+      "Cuprum": {
+        "mes": -2.78,
+        "acumuladoAnio": 6.25,
+        "ultimos12m": 12.05,
+        "prom60m": 5.83
+      },
+      "Habitat": {
+        "mes": -3.17,
+        "acumuladoAnio": 4.59,
+        "ultimos12m": 10.32,
+        "prom60m": 5.87
+      },
+      "Modelo": {
+        "mes": -2.89,
+        "acumuladoAnio": 5.57,
+        "ultimos12m": 11.07,
+        "prom60m": null
+      },
+      "Planvital": {
+        "mes": -2.8,
+        "acumuladoAnio": 5.72,
+        "ultimos12m": 11.57,
+        "prom60m": 5.57
+      },
+      "Provida": {
+        "mes": -2.88,
+        "acumuladoAnio": 5.85,
+        "ultimos12m": 11.54,
+        "prom60m": 5.79
+      },
+      "Uno": {
+        "mes": -2.64,
+        "acumuladoAnio": 5.91,
+        "ultimos12m": 11.49,
+        "prom60m": null
+      },
+      "SISTEMA": {
+        "mes": -2.93,
+        "acumuladoAnio": 5.53,
+        "ultimos12m": 11.28,
+        "prom60m": 5.82
+      }
+    },
+    "B": {
+      "Capital": {
+        "mes": -2.71,
+        "acumuladoAnio": 3.72,
+        "ultimos12m": 8.84,
+        "prom60m": 5.04
+      },
+      "Cuprum": {
+        "mes": -2.7,
+        "acumuladoAnio": 4.33,
+        "ultimos12m": 9.38,
+        "prom60m": 5.06
+      },
+      "Habitat": {
+        "mes": -3.13,
+        "acumuladoAnio": 2.66,
+        "ultimos12m": 7.63,
+        "prom60m": 5.11
+      },
+      "Modelo": {
+        "mes": -2.91,
+        "acumuladoAnio": 3.05,
+        "ultimos12m": 7.73,
+        "prom60m": null
+      },
+      "Planvital": {
+        "mes": -2.72,
+        "acumuladoAnio": 3.76,
+        "ultimos12m": 8.71,
+        "prom60m": 4.9
+      },
+      "Provida": {
+        "mes": -2.72,
+        "acumuladoAnio": 3.96,
+        "ultimos12m": 8.87,
+        "prom60m": 4.82
+      },
+      "Uno": {
+        "mes": -2.53,
+        "acumuladoAnio": 3.9,
+        "ultimos12m": 8.77,
+        "prom60m": null
+      },
+      "SISTEMA": {
+        "mes": -2.82,
+        "acumuladoAnio": 3.54,
+        "ultimos12m": 8.49,
+        "prom60m": 5
+      }
+    },
+    "C": {
+      "Capital": {
+        "mes": -3.11,
+        "acumuladoAnio": -0.19,
+        "ultimos12m": 4.72,
+        "prom60m": 4.17
+      },
+      "Cuprum": {
+        "mes": 7,
+        "acumuladoAnio": -3.22,
+        "ultimos12m": 0.09,
+        "prom60m": 4.76
+      },
+      "Habitat": {
+        "mes": 4.33,
+        "acumuladoAnio": 7.27,
+        "ultimos12m": -3.24,
+        "prom60m": -0.52
+      },
+      "Modelo": {
+        "mes": 4.22,
+        "acumuladoAnio": 4.46,
+        "ultimos12m": 7.27,
+        "prom60m": -3.46
+      },
+      "Planvital": {
+        "mes": -0.75,
+        "acumuladoAnio": 3.77,
+        "ultimos12m": null,
+        "prom60m": null
+      },
+      "Provida": {
+        "mes": -3.27,
+        "acumuladoAnio": -0.14,
+        "ultimos12m": 4.59,
+        "prom60m": 4.11
+      },
+      "Uno": {
+        "mes": 7.19,
+        "acumuladoAnio": -3.2,
+        "ultimos12m": -0.31,
+        "prom60m": 4.27
+      },
+      "SISTEMA": {
+        "mes": 3.9,
+        "acumuladoAnio": 6.87,
+        "ultimos12m": -3.06,
+        "prom60m": 0.03
+      }
+    },
+    "D": {
+      "Capital": {
+        "mes": 4.68,
+        "acumuladoAnio": null,
+        "ultimos12m": null,
+        "prom60m": -3.22
+      },
+      "Cuprum": {
+        "mes": -0.3,
+        "acumuladoAnio": 4.41,
+        "ultimos12m": 4.23,
+        "prom60m": 7.12
+      },
+      "Habitat": {
+        "mes": -3.09,
+        "acumuladoAnio": -3.18,
+        "ultimos12m": 1.34,
+        "prom60m": 3.47
+      },
+      "Modelo": {
+        "mes": -3.07,
+        "acumuladoAnio": -2.85,
+        "ultimos12m": 1.68,
+        "prom60m": 3.6
+      },
+      "Planvital": {
+        "mes": -3.03,
+        "acumuladoAnio": -3.02,
+        "ultimos12m": 1.47,
+        "prom60m": 3.69
+      },
+      "Provida": {
+        "mes": -3.51,
+        "acumuladoAnio": -3.79,
+        "ultimos12m": 0.42,
+        "prom60m": null
+      },
+      "Uno": {
+        "mes": -3.21,
+        "acumuladoAnio": -3.13,
+        "ultimos12m": 1.36,
+        "prom60m": 3.23
+      },
+      "SISTEMA": {
+        "mes": -3.17,
+        "acumuladoAnio": -3.23,
+        "ultimos12m": 1.26,
+        "prom60m": 3.19
+      }
+    },
+    "E": {
+      "Capital": {
+        "mes": -3.02,
+        "acumuladoAnio": -2.84,
+        "ultimos12m": 1.77,
+        "prom60m": null
+      },
+      "Cuprum": {
+        "mes": -3.11,
+        "acumuladoAnio": -3.13,
+        "ultimos12m": 1.37,
+        "prom60m": 3.45
+      },
+      "Habitat": {
+        "mes": -3.14,
+        "acumuladoAnio": -5.89,
+        "ultimos12m": -2.55,
+        "prom60m": 2.95
+      },
+      "Modelo": {
+        "mes": 3.47,
+        "acumuladoAnio": -3.16,
+        "ultimos12m": -5.77,
+        "prom60m": -2.42
+      },
+      "Planvital": {
+        "mes": 2.83,
+        "acumuladoAnio": 3.6,
+        "ultimos12m": -3.37,
+        "prom60m": -5.66
+      },
+      "Provida": {
+        "mes": -2.5,
+        "acumuladoAnio": 3,
+        "ultimos12m": 3.67,
+        "prom60m": -3.65
+      },
+      "Uno": {
+        "mes": -6.77,
+        "acumuladoAnio": -3.62,
+        "ultimos12m": null,
+        "prom60m": null
+      },
+      "SISTEMA": {
+        "mes": -3.32,
+        "acumuladoAnio": -5.49,
+        "ultimos12m": -2.29,
+        "prom60m": 2.39
+      }
+    }
+  },
+  "brechasAcumulado2026": {
+    "A": {
+      "Capital": {
+        "rentNominal2026": 12.854696777482054,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 9.78083344113041,
+        "rentRealOficial": 5.71,
+        "desvio": -4.07083344113041
+      },
+      "Cuprum": {
+        "rentNominal2026": 13.37816345696754,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 10.290042273314715,
+        "rentRealOficial": 6.25,
+        "desvio": -4.0400422733147145
+      },
+      "Habitat": {
+        "rentNominal2026": 11.50439547851736,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 8.467310776767857,
+        "rentRealOficial": 4.59,
+        "desvio": -3.8773107767678567
+      },
+      "Modelo": {
+        "rentNominal2026": 12.627697596182141,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 9.560017116908703,
+        "rentRealOficial": 5.57,
+        "desvio": -3.990017116908703
+      },
+      "Planvital": {
+        "rentNominal2026": 12.781643297126188,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 9.709769744286167,
+        "rentRealOficial": 5.72,
+        "desvio": -3.989769744286167
+      },
+      "Provida": {
+        "rentNominal2026": 12.962624959808577,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 9.88582194533909,
+        "rentRealOficial": 5.85,
+        "desvio": -4.035821945339091
+      },
+      "Uno": {
+        "rentNominal2026": 12.789970282083862,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 9.717869924206092,
+        "rentRealOficial": 5.91,
+        "desvio": -3.8078699242060914
+      }
+    },
+    "B": {
+      "Capital": {
+        "rentNominal2026": 10.08397238515657,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 7.085576250152292,
+        "rentRealOficial": 3.72,
+        "desvio": -3.365576250152292
+      },
+      "Cuprum": {
+        "rentNominal2026": 10.721830735349913,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 7.706061026604982,
+        "rentRealOficial": 4.33,
+        "desvio": -3.376061026604982
+      },
+      "Habitat": {
+        "rentNominal2026": 8.868664407243209,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 5.903370045956424,
+        "rentRealOficial": 2.66,
+        "desvio": -3.243370045956424
+      },
+      "Modelo": {
+        "rentNominal2026": 9.295306939072944,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 6.318391964078729,
+        "rentRealOficial": 3.05,
+        "desvio": -3.268391964078729
+      },
+      "Planvital": {
+        "rentNominal2026": 9.995018748780659,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 6.999045475467569,
+        "rentRealOficial": 3.76,
+        "desvio": -3.2390454754675693
+      },
+      "Provida": {
+        "rentNominal2026": 10.329322097897919,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 7.324243285892917,
+        "rentRealOficial": 3.96,
+        "desvio": -3.3642432858929174
+      },
+      "Uno": {
+        "rentNominal2026": 10.020156895054178,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 7.0234989251499735,
+        "rentRealOficial": 3.9,
+        "desvio": -3.1234989251499736
+      }
+    },
+    "C": {
+      "Capital": {
+        "rentNominal2026": 5.139231634645869,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 2.2755171543247688,
+        "rentRealOficial": -0.19,
+        "desvio": -2.4655171543247687
+      },
+      "Cuprum": {
+        "rentNominal2026": 5.3153763682412425,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 2.446864171440888,
+        "rentRealOficial": -3.22,
+        "desvio": -5.6668641714408885
+      },
+      "Habitat": {
+        "rentNominal2026": 4.848401640742028,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 1.9926085999436127,
+        "rentRealOficial": 7.27,
+        "desvio": 5.277391400056387
+      },
+      "Modelo": {
+        "rentNominal2026": 4.430324472684388,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 1.5859187477474501,
+        "rentRealOficial": 4.46,
+        "desvio": 2.87408125225255
+      },
+      "Planvital": {
+        "rentNominal2026": 5.015026910526599,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 2.1546954382554384,
+        "rentRealOficial": 3.77,
+        "desvio": 1.6153045617445616
+      },
+      "Provida": {
+        "rentNominal2026": 4.922229146139712,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 2.064425239435508,
+        "rentRealOficial": -0.14,
+        "desvio": -2.204425239435508
+      },
+      "Uno": {
+        "rentNominal2026": 5.225236372895714,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": 2.3591793510658654,
+        "rentRealOficial": -3.2,
+        "desvio": -5.559179351065866
+      }
+    },
+    "D": {
+      "Capital": {
+        "rentNominal2026": 0.9551804137148068,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": -1.7945715819894903,
+        "rentRealOficial": null,
+        "desvio": null
+      },
+      "Cuprum": {
+        "rentNominal2026": 1.2694767039955757,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": -1.488835891054885,
+        "rentRealOficial": 4.41,
+        "desvio": 5.898835891054885
+      },
+      "Habitat": {
+        "rentNominal2026": 1.1382195451854704,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": -1.6165179521542172,
+        "rentRealOficial": -3.18,
+        "desvio": -1.563482047845783
+      },
+      "Modelo": {
+        "rentNominal2026": 0.2250008487498567,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": -2.5048629875974227,
+        "rentRealOficial": -2.85,
+        "desvio": -0.34513701240257744
+      },
+      "Planvital": {
+        "rentNominal2026": 0.8634119055209055,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": -1.8838405588318063,
+        "rentRealOficial": -3.02,
+        "desvio": -1.1361594411681937
+      },
+      "Provida": {
+        "rentNominal2026": 0.7855565824021804,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": -1.9595753089472923,
+        "rentRealOficial": -3.79,
+        "desvio": -1.8304246910527078
+      },
+      "Uno": {
+        "rentNominal2026": 1.1855529958433753,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": -1.5704737394519719,
+        "rentRealOficial": -3.13,
+        "desvio": -1.559526260548028
+      }
+    },
+    "E": {
+      "Capital": {
+        "rentNominal2026": -2.687408449841533,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": -5.337945962880875,
+        "rentRealOficial": -2.84,
+        "desvio": 2.497945962880875
+      },
+      "Cuprum": {
+        "rentNominal2026": -2.6137159829735968,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": -5.266260683826463,
+        "rentRealOficial": -3.13,
+        "desvio": 2.136260683826463
+      },
+      "Habitat": {
+        "rentNominal2026": -2.389128358484338,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": -5.0477902319886585,
+        "rentRealOficial": -5.89,
+        "desvio": -0.8422097680113412
+      },
+      "Modelo": {
+        "rentNominal2026": -3.6562838312097723,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": -6.280431742421955,
+        "rentRealOficial": -3.16,
+        "desvio": 3.120431742421955
+      },
+      "Planvital": {
+        "rentNominal2026": -2.4069173929280763,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": -5.065094740202413,
+        "rentRealOficial": 3.6,
+        "desvio": 8.665094740202413
+      },
+      "Provida": {
+        "rentNominal2026": -2.50418534293787,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": -5.159713368616603,
+        "rentRealOficial": 3,
+        "desvio": 8.159713368616604
+      },
+      "Uno": {
+        "rentNominal2026": -2.4310304857694143,
+        "inflacion2026": 2.8,
+        "rentRealCalculada": -5.088551056195934,
+        "rentRealOficial": -3.62,
+        "desvio": 1.4685510561959338
+      }
+    }
+  },
+  "comisiones": [
+    {
+      "name": "Capital",
+      "comision": 1.44
+    },
+    {
+      "name": "Cuprum",
+      "comision": 1.44
+    },
+    {
+      "name": "Habitat",
+      "comision": 1.27
+    },
+    {
+      "name": "Modelo",
+      "comision": 0.58
+    },
+    {
+      "name": "Planvital",
+      "comision": 1.16
+    },
+    {
+      "name": "Provida",
+      "comision": 1.45
+    },
+    {
+      "name": "Uno",
+      "comision": 0.46
+    }
+  ],
+  "notas": [
+    "Rentabilidad nominal se calcula desde el valor cuota diario oficial (Superintendencia).",
+    "Rentabilidad real calculada = deflactar nominal por IPC anual (INE).",
+    "La Supen publica la rentabilidad REAL (deflactada) en su reporte getRentabilidad.",
+    "El desvío señala qué tan lejos está lo publicado por la Supen vs lo deducible desde la cuota oficial."
+  ]
+}
